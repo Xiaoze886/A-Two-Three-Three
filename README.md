@@ -1,4 +1,6 @@
 # A-Two-Three-Three
+2021/8/20更新sig签名文件
+公钥见releases
 这是一个我在2017年用易语言编写的垃圾程序,
 并且也是我编写的第一个程序,
 emmmmmmmmmmmmmmmmmmm
